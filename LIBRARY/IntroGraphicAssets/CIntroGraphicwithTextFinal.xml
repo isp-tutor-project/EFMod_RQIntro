@@ -1,0 +1,100 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="IntroGraphicAssets/CIntroGraphicwithTextFinal" itemID="5aba8b69-0000006c" lastModified="1527880812">
+  <timeline>
+    <DOMTimeline name="CIntroGraphicwithTextFinal">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="IntroGraphicAssets/Shapes/IntroGraphicSquares">
+                  <matrix>
+                    <Matrix a="0.987838745117188" d="1.00973510742188"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="IntroGraphicAssets/Arrows/Arrow_Gray" centerPoint3DX="36.45" centerPoint3DY="-164.8">
+                  <matrix>
+                    <Matrix a="0.939361572265625" d="0.960174560546875" tx="36.45" ty="-164.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="IntroGraphicAssets/Arrows/Arrow_Gray" centerPoint3DX="205.45" centerPoint3DY="-26.7">
+                  <matrix>
+                    <Matrix a="0.939361572265625" d="0.960174560546875" tx="205.45" ty="-26.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="IntroGraphicAssets/Arrows/Arrow_Gray" centerPoint3DX="409.1" centerPoint3DY="122.3">
+                  <matrix>
+                    <Matrix a="0.939361572265625" d="0.960174560546875" tx="409.05" ty="122.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="generalarea" fontRenderingMode="standard" top="-11.25" left="-103.4" width="476.8" height="148.9" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.987838745117188" d="1.00973510742188" tx="-385.9" ty="-243.1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>SELECT GENERAL AREA&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="0" lineHeight="74.45" size="65" bitmapSize="1300" face="MouseMemoirs-Regular" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="topic" fontRenderingMode="standard" top="-13.9" left="-141.7" width="430.9" height="82.6" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.987838745117188" d="1.00973510742188" tx="-138.2" ty="-90.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>SELECT TOPIC</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="68.7" size="60" bitmapSize="1200" face="MouseMemoirs-Regular" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="selectrq" fontRenderingMode="standard" top="-15.15" left="-118.45" width="382.35" height="148" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.987838745117188" d="1.00973510742188" tx="86.95" ty="35.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>SELECT&#xD;RESEARCH QUESTION</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="0" lineHeight="57.25" size="50" bitmapSize="1000" face="MouseMemoirs-Regular" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="setup" fontRenderingMode="standard" top="-22.65" left="-90.25" width="312.05" height="114.85" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.987838745117188" d="1.00973510742188" tx="276.1" ty="191.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>SET UP &amp;&#xD;EVALUATE EXPERIMENTS</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="0" lineHeight="48.1" size="42" bitmapSize="840" face="MouseMemoirs-Regular" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

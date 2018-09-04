@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TC_TScene__Slide5_Intro" itemID="5af331fd-00000325" lastModified="1525887485">
+  <timeline>
+    <DOMTimeline name="TC_TScene__Slide5_Intro">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="TC_TScene__Slide4_Intro" selected="true">
+                  <transformationPoint>
+                    <Point y="1.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="IntroGraphicAssets/Shapes/Oval2" centerPoint3DX="315.85" centerPoint3DY="-149.65">
+                  <matrix>
+                    <Matrix a="1.48175048828125" d="1.48175048828125" tx="315.85" ty="-149.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="IntroGraphicAssets/TextAssets/Oval2_text" centerPoint3DX="322" centerPoint3DY="-139.7">
+                  <matrix>
+                    <Matrix a="1.48175048828125" d="1.48175048828125" tx="322" ty="-139.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="IntroGraphicAssets/Shapes/HighlightedOval" centerPoint3DX="316.85" centerPoint3DY="-154.15">
+                  <matrix>
+                    <Matrix a="1.5" d="1.5" tx="316.8" ty="-154.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

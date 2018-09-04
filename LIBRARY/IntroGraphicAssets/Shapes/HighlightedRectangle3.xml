@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="IntroGraphicAssets/Shapes/HighlightedRectangle3" itemID="5aba998a-00000028" lastModified="1522178442">
+  <timeline>
+    <DOMTimeline name="HighlightedRectangle3">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFF00" alpha="0.298039215686275"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="3.4">
+                        <fill>
+                          <SolidColor color="#FFFF00"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!-3379 -1199S6|3380 -1199!3380 -1199[3628 -1199 3804 -1023!3804 -1023[3980 -847 3980 -599!3980 -599|3980 600!3980 600[3980 848 3804 1024!3804 1024[3628 1200 3380 1200!3380 1200|-3379 1200!-3379 1200[-3627 1200 -3803 1024!-3803 1024[-3979
+ 848 -3979 600!-3979 600|-3979 -599!-3979 -599[-3979 -847 -3803 -1023!-3803 -1023[-3627 -1199 -3379 -1199"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

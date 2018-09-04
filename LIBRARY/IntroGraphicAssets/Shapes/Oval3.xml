@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="IntroGraphicAssets/Shapes/Oval3" itemID="5aba8368-0000002e" lastModified="1522172777">
+  <timeline>
+    <DOMTimeline name="Oval3">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#586FFC"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!2402 1S2[2402 522 1698 890!1698 890[995 1259 0 1259!0 1259[-994 1259 -1697 890!-1697 890[-2401 522 -2401 1!-2401 1[-2401 -521 -1697 -890!-1697 -890[-994 -1258 0 -1258!0 -1258[995 -1258 1698 -890!1698 -890[2402 -521 2402 1"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

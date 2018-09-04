@@ -1,0 +1,43 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="IntroGraphicAssets/Shapes/Oval3_Addition" itemID="5aba9a25-0000003e" lastModified="1522178597">
+  <timeline>
+    <DOMTimeline name="Oval3_Addition">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#586FFC"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#9BA4CB"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!2320 0S6[2320 522 1640 891!1640 891[961 1260 0 1260!0 1260[-961 1260 -1641 891!-1641 891[-2320 522 -2320 0!-2320 0[-2320 -522 -1641 -891!-1641 -891[-961 -1260 0 -1260!0 -1260[961 -1260 1640 -891!1640 -891[2320 -522 2320 0"/>
+                    <Edge cubics="!-2320 0(;-2320,-348 -2094,-645 -1641,-891q-2320 0Q-2320 -522q-1641 -891);"/>
+                    <Edge cubics="!-1641 891(;-2094,645 -2320,348 -2320,0q-1641 891Q-2320 522q-2320 0);"/>
+                    <Edge cubics="!1640 891(;1187,1137 641,1260 0,1260q1640 891Q961 1260q0 1260);"/>
+                    <Edge cubics="!0 1260(;-641,1260 -1188,1137 -1641,891q0 1260Q-961 1260q-1641 891);"/>
+                    <Edge cubics="!-1641 -891(;-1188,-1137 -641,-1260 0,-1260q-1641 -891Q-961 -1260q0 -1260);"/>
+                    <Edge cubics="!0 -1260(;641,-1260 1187,-1137 1640,-891q0 -1260Q961 -1260q1640 -891);"/>
+                    <Edge cubics="!2320 0(;2320,348 2093,645 1640,891q2320 0Q2320 522q1640 891);"/>
+                    <Edge cubics="!1640 -891(;2093,-645 2320,-348 2320,0q1640 -891Q2320 -522q2320 0);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

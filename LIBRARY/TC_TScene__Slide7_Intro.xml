@@ -1,0 +1,63 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TC_TScene__Slide7_Intro" itemID="5af33208-00000329" lastModified="1525887496">
+  <timeline>
+    <DOMTimeline name="TC_TScene__Slide7_Intro">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#E8E8E8"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!15153 1202[15153 1975 14111 2519!14111 2519[13068 3067 11594 3067!11594 3067[10121 3067 9080 2519!9080 2519[8037 1975 8037 1202!8037 1202[8037 430 9080 -118!9080 -118[10121 -662 11594 -662!11594 -662[13068 -662 14111 -118!14111 -118
+[15153 430 15153 1202"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="TC_TScene__Slide6_Intro" selected="true">
+                  <matrix>
+                    <Matrix tx="-25.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="1.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="IntroGraphicAssets/Shapes/Oval3" centerPoint3DX="579.7" centerPoint3DY="60.05">
+                  <matrix>
+                    <Matrix a="1.48175048828125" d="1.48175048828125" tx="579.65" ty="60"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="IntroGraphicAssets/TextAssets/Oval3_text" centerPoint3DX="577.3" centerPoint3DY="63.8">
+                  <matrix>
+                    <Matrix a="1.48175048828125" d="1.48175048828125" tx="577.25" ty="63.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="IntroGraphicAssets/Shapes/HighlightedOval" centerPoint3DX="581.7" centerPoint3DY="58.1">
+                  <matrix>
+                    <Matrix a="1.5" d="1.5" tx="581.7" ty="58.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

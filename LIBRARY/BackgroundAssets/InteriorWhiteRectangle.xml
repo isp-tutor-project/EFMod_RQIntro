@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="BackgroundAssets/InteriorWhiteRectangle" itemID="5aba616a-00000132" lastModified="1522164074">
+  <timeline>
+    <DOMTimeline name="InteriorWhiteRectangle">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor color="#CCCCCC"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!-10355 -6757|10356 -6757!10356 -6757[11019 -6757 11487 -6289!11487 -6289[11956 -5820 11956 -5157!11956 -5157|11956 5158!11956 5158[11956 5821 11487 6289!11487 6289[11019 6758 10356 6758!10356 6758|-10355 6758!-10355 6758[-11018 6758
+ -11487 6289!-11487 6289[-11955 5821 -11955 5158!-11955 5158|-11955 -5157!-11955 -5157[-11955 -5820 -11487 -6289!-11487 -6289[-11018 -6757 -10355 -6757"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

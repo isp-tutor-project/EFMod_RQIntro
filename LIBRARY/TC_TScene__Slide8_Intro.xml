@@ -1,0 +1,85 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TC_TScene__Slide8_Intro" itemID="5af33212-0000032a" lastModified="1527881388">
+  <timeline>
+    <DOMTimeline name="TC_TScene__Slide8_Intro">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="IntroGraphicAssets/tshirtstickfigures.jpg">
+                  <matrix>
+                    <Matrix a="1.34478759765625" d="1.23109436035156" tx="-785.05" ty="-12.05"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMSymbolInstance libraryItemName="IntroGraphicAssets/CIntroGraphicwithTextFinal" centerPoint3DX="7.6" centerPoint3DY="19.45">
+                  <matrix>
+                    <Matrix a="1.5" d="1.5" tx="7.55" ty="19.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="IntroGraphicAssets/Shapes/Oval1" centerPoint3DX="59.85" centerPoint3DY="-391.1">
+                  <matrix>
+                    <Matrix a="1.48175048828125" d="1.48175048828125" tx="59.85" ty="-391.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="IntroGraphicAssets/TextAssets/Oval1_Text" centerPoint3DX="62.4" centerPoint3DY="-401.15">
+                  <matrix>
+                    <Matrix a="1.48175048828125" d="1.48175048828125" tx="62.4" ty="-401.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="IntroGraphicAssets/Shapes/Oval2" centerPoint3DX="322.8" centerPoint3DY="-173.95">
+                  <matrix>
+                    <Matrix a="1.48175048828125" d="1.48175048828125" tx="322.8" ty="-174"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="IntroGraphicAssets/TextAssets/Oval2_text" centerPoint3DX="328.95" centerPoint3DY="-164">
+                  <matrix>
+                    <Matrix a="1.48175048828125" d="1.48175048828125" tx="328.95" ty="-164"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="IntroGraphicAssets/Shapes/Oval3_Addition" centerPoint3DX="611.1" centerPoint3DY="34.75">
+                  <matrix>
+                    <Matrix a="1.5" d="1.5" tx="611.05" ty="34.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="IntroGraphicAssets/TextAssets/Oval3_text" name="rq_doesthecolor" centerPoint3DX="610.4" centerPoint3DY="39.35">
+                  <matrix>
+                    <Matrix a="1.5" d="1.5" tx="610.4" ty="39.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="IntroGraphicAssets/Shapes/HighlightedRectangle4" centerPoint3DX="520.35" centerPoint3DY="350.3">
+                  <matrix>
+                    <Matrix a="1.5" d="1.5" tx="520.35" ty="350.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="IntroGraphicAssets/TextAssets/Oval3_text" itemID="5aba838f-00000034" lastModified="1527880994">
+  <timeline>
+    <DOMTimeline name="Oval3_text">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="rq_doesthecolor" fontRenderingMode="standard" top="-8.2" left="-20.35" width="184.7" height="91.25" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-72" ty="-37.85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Does the color of the&#xD;T-shirt a person is wearing &#xD;affect attention?</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="26.35" size="23" bitmapSize="460" face="MouseMemoirs-Regular" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

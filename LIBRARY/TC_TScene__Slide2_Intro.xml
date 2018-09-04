@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TC_TScene__Slide2_Intro" itemID="5af331e6-00000322" lastModified="1525887462">
+  <timeline>
+    <DOMTimeline name="TC_TScene__Slide2_Intro">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="IntroGraphicAssets/CIntroGraphicwithTextFinal" selected="true" centerPoint3DX="0.7" centerPoint3DY="2.35">
+                  <matrix>
+                    <Matrix a="1.5" d="1.5" tx="0.65" ty="2.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="IntroGraphicAssets/Shapes/HIghlightedRectangle1" selected="true" centerPoint3DX="-376.25" centerPoint3DY="-319.7">
+                  <matrix>
+                    <Matrix a="1.5" d="1.5" tx="-376.3" ty="-319.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

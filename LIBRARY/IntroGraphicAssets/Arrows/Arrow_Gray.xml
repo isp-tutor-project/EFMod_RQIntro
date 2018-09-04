@@ -1,0 +1,53 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="IntroGraphicAssets/Arrows/Arrow_Gray" itemID="5aba997f-00000027" lastModified="1522178431">
+  <timeline>
+    <DOMTimeline name="Arrow_Gray">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.04742431640625" b="0.013824462890625" c="-0.0089111328125" d="0.0305938720703125" tx="-11.3" ty="-11.85"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0"/>
+                        <GradientEntry color="#4B4F55" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.015777587890625" b="-0.0009765625" c="0.0009765625" d="0.015777587890625" tx="18.45" ty="23.65"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0"/>
+                        <GradientEntry color="#4B4F55" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2.05">
+                        <fill>
+                          <SolidColor color="#666666"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!142 219S6[-13 -672 -798 -41!-798 -41|-814 -554!-814 -554[307 -1340 488 200!488 200[489 202 490 205"/>
+                    <Edge fillStyle1="1" edges="!273 215S2|142 219"/>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="!490 205S6|815 200!815 200|364 820!364 820|-150 253!-150 253|273 215"/>
+                    <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!273 215S7|490 205"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
